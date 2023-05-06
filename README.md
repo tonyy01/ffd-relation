@@ -7,7 +7,7 @@ I = findrelation(interactiveFact, interaction)
 
 ## Description
 
-I = findrelation(interactiveFact, interaction) finds relations for main factors and interactive factors. interactiveFact is a string array consisting of characters meaning "interactive factors". "interaction" is a string array consisting of multi-character terms indicating the interaction of corresponding interaction factors. I is an array of strings refering to the relations. 
+I = findrelation(interactiveFact, interaction) finds defination relations for main factors and interactive factors. interactiveFact is a string array consisting of characters meaning "interactive factors". "interaction" is a string array consisting of multi-character terms indicating the interaction of corresponding interaction factors. I is an array of strings refering to the relations. 
 
 I = findrelation(interactiveFact, interaction) returns I for "interactiveFact" of "interaction". 
 
